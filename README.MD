@@ -2,7 +2,7 @@
 DEVContasPagar
 
 ## Descrição do Projeto
-(Projeto criado apenas para afins de estudos e práticas)
+(Projeto criado apenas para afins de estudos e práticas)<br>
 Criado uma API para criar registros de contas receber/pagar para crédito à vista e crédito parcelados. 
 E a partir do que for informado nos parametros do Body será criado os registros.
 
